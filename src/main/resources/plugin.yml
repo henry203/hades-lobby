@@ -1,0 +1,4 @@
+name: hades-lobby
+version: '${project.version}'
+main: com.hadeslobby.lobbyv2.LobbyMain
+authors: [ henry ]
